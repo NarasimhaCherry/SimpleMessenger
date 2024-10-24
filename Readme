@@ -1,0 +1,3 @@
+ Created a simple web page with a form that includes the following fields: name, email, and message. 
+ When the user submits the form, displayed a success message without refreshing the page.
+ And this has been achieved by using the javascript.
